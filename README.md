@@ -23,6 +23,7 @@ The dataset comprises transactional data from customers who shopped at Walmart S
 ### Dataset Link
 
 `Walmart_data.csv`
+'[Walmart_data](https://github.com/mrankit560/Walmart/blob/main/walmart_data.csv)'
 
 ## Analysis Process
 
