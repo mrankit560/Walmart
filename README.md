@@ -1,5 +1,6 @@
 Walmart Customer Purchase Behavior Analysis
 Project Overview
+
 This project aims to analyze the customer purchase behavior at Walmart, with a specific focus on comparing spending habits between male and female customers during Black Friday. Through this study, we seek to uncover valuable insights that can help Walmart in making informed business decisions. The analysis covers various factors such as customer gender, age, occupation, city category, marital status, and product categories, aiming to understand their influence on purchase amounts.
 
 Dataset Overview
